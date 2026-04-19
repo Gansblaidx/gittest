@@ -1,2 +1,3 @@
 This is the new file
 rebase conflict resolved
+Change to simulate another person changing it on github
