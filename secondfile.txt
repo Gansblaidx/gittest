@@ -1,3 +1,5 @@
 Adding another one for the main branch
 New change after rebase conflict
 Change made on terminal
+Stash test, stash worked
+
