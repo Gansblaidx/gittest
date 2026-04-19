@@ -2,3 +2,4 @@ This is the new file
 rebase conflict resolved
 Change to simulate another person changing it on github.
 Adding this to test stash
+A new change after stashing
