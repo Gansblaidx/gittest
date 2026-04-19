@@ -1,2 +1,2 @@
 Hello this is a test
-Adding this to test automatic merges
+Update to test conflict between branches
