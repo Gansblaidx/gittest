@@ -1,2 +1,2 @@
 This is the new file
-Adding change before rebasing conflicts
+rebase conflict resolved
