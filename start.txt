@@ -1,6 +1,2 @@
 Hello this is a test
-<<<<<<< HEAD
 This was the conflict
-=======
-This was the conflict
->>>>>>> branchtest
