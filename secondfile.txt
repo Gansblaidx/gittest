@@ -3,3 +3,4 @@ New change after rebase conflict
 Change made on terminal
 Stash test, stash worked
 
+#cherry pick me!
