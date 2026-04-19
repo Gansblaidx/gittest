@@ -6,3 +6,4 @@ More changes from branchtest
 Adding something to test stashing untracked files
 stashing into a branch
 tags
+#new something
